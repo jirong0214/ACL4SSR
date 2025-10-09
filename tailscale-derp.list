@@ -4,6 +4,7 @@
 
 # Domain
 DOMAIN-REGEX,^derp.*tailscale\.com
+DOMAIN-SUFFIX,tailscale.com
 
 # IPv4
 IP-CIDR,199.38.181.104/32,no-resolve
