@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,geekouc.com
 DOMAIN-SUFFIX,denza.cloud
 DOMAIN-SUFFIX,blog.cloudflare.com
-SRC-IP-CIDR,192.168.31.218/32,DIRECT,no-resolve # IPTV
-SRC-IP-CIDR,192.168.31.32/32,DIRECT,no-resolve # PT IPV4
-SRC-IP-SUFFIX,::be24:11ff:fef7:81c2/64,DIRECT,no-resolve # PT IPV6 EUI64
+DOMAIN-SUFFIX,baobaobooks.com # 点读笔
+DOMAIN-SUFFIX,xiaobien.com # 点读笔
+DOMAIN-SUFFIX,pdd.net
